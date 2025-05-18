@@ -1,6 +1,6 @@
 # ---------- Dockerfile ----------
 #  Вариант А. Берём последнюю стабильную 1.13.1
-FROM judge0/api:1.13.1
+FROM judge0/api:1.10.0
 #  ── или ──
 #  Вариант B. Просто всегда latest
 # FROM judge0/api:latest
